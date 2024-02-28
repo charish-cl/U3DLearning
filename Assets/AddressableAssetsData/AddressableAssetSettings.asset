@@ -59,7 +59,7 @@ MonoBehaviour:
       - m_Id: 2c487b347c42d774892df76aefaae5b2
         m_Value: ServerData/[BuildTarget]
       - m_Id: b12820ac41aa58140a4394b91f6046de
-        m_Value: http://localhost/[BuildTarget]
+        m_Value: https://github.com/charish-cl/U3DLearning/blob/ForgotElk/Assets/Addressable/84808352_p0_master1200.jpg
     m_ProfileEntryNames:
     - m_Id: f17dadadab84a7a4c8f88a59e92e885d
       m_Name: BuildTarget

@@ -20,8 +20,7 @@ MonoBehaviour:
   - m_GUID: 779233f68c79f0a4c9fe3e024de6b423
     m_Address: Assets/Addressable/84808352_p0_master1200.jpg
     m_ReadOnly: 0
-    m_SerializedLabels:
-    - default
+    m_SerializedLabels: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: fcf954591ef73e0408548da9b544c526, type: 2}
   m_SchemaSet:

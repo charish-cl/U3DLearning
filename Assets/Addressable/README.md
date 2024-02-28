@@ -28,10 +28,14 @@ https://docs.unity3d.com/Packages/com.unity.addressables@2.0/manual/index.html
 
 
 
-## Win11 `Hosting Services`会无法访问
+# Win11 `Hosting Services`会无法访问
 
 注：如果你是`win11`系统，可能使用`Hosting Services`会无法访问，具体原因不明，`win11`各种恶心的问题，放弃治疗，把资源放到`https`服务器可以正常加载
 
 
 
 ![image-20240228130149310](assets/image-20240228130149310.png)
+
+# 第三种模式
+
+![image-20240228132227273](assets/image-20240228132227273.png)
