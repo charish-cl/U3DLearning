@@ -8,7 +8,8 @@ public class Main : MonoBehaviour
     void Start()
     {
         // InstantiateCube();
-        LoadServerResouses();
+        LoadScene();
+       // LoadServerResouses();
     }
 	
     private async void InstantiateCube()
@@ -32,5 +33,11 @@ public class Main : MonoBehaviour
         Texture2D tex2D = obj;
         img.texture = tex2D;
         img.GetComponent<RectTransform>().sizeDelta = new Vector2(tex2D.width, tex2D.height);
+    }
+
+    public async void LoadScene()
+    {
+        var sceneAsync = await Addressables.LoadSceneAsync("Assets/Addressable/TestScene.unity").Task;
+        Addressables.UnloadSceneAsync(sceneAsync);
     }
 }

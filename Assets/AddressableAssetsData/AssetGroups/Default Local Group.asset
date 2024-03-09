@@ -21,6 +21,10 @@ MonoBehaviour:
     m_Address: Assets/Addressable/Square.prefab
     m_ReadOnly: 0
     m_SerializedLabels: []
+  - m_GUID: e55b07d1adc249d4587c031bcbdc8d45
+    m_Address: Assets/Addressable/TestScene.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: fcf954591ef73e0408548da9b544c526, type: 2}
   m_SchemaSet:
